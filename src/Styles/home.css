@@ -8,7 +8,7 @@ html, body {
   padding: 0;
   overflow-x: hidden;
   font-family: 'Montserrat', sans-serif;
-  background-color: #f5d9f8;
+  background-color: url('../assets/Backgrounds/home1.png');
 }
 
 /* 🔹 Main Container */
